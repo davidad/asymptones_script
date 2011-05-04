@@ -14,6 +14,8 @@ PLAYERS:
 		- greenea
 	GLaDOS, a ROBOT OVERLORD
 		- catherio
+	Policeman, a MONTY PYTHON CHARACTER
+	  - JB?
 
 	Chorus of ROBOTS
 		- everyone else
@@ -146,6 +148,8 @@ Unit 0043: Shut up!
 
 * Title of the Song
 
-Glados and the turrets show up at the end for an EPIC FINALE!!!
+[Policeman comes to the front of the chorus.]
+Policeman: And now for something completely different.
+[Policeman returns to the chorus.]
 
 * Bohemian Rhapsody
