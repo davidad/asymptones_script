@@ -10,8 +10,10 @@ PLAYERS:
 		- horkley?
 	Unit 0043,...also a ROBOT
 		- jesseaj?
+	Unit 0399,...another ROBOT
+		- greenea
 	GLaDOS, a ROBOT OVERLORD
-		- catherio?
+		- catherio
 
 	Chorus of ROBOTS
 		- everyone else
@@ -99,7 +101,10 @@ GLaDOS: Well. This will take some time to rebuild.
 
 * Build Me Up Buttercup
 
-Newly refurbished, the robots + glados are quite happy to be still alive
+[GLaDOS steps forward as Unit 0399 steps forward with head at an odd angle.]
+Unit 0399: Bzzzz-chk! [head returns upright]
+GLaDOS: Finally my robot army is restored
+CHORUS: We are so glad to be still alive.
 
 * Still Alive
 
