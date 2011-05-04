@@ -1,3 +1,21 @@
+********************************************************************************
+********************ASYMPTONES CONCERT SCRIPT SPRING 2011***********************
+********************************************************************************
+PLAYERS:
+	Steve, a GUY
+		- dkoh?
+	Lisa, a GIRL
+		- fischerl?
+	Unit 0042, a ROBOT
+		- horkley?
+	Unit 0043,...also a ROBOT
+		- jesseaj?
+	GLaDOS, a ROBOT OVERLORD
+		- JB?
+
+	Chorus of ROBOTS
+		- everyone else
+
 Two people (guy and girl) are playing super smash brothers near a cryogenic testing facility
 
 * Up-B
