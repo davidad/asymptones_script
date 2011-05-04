@@ -18,7 +18,7 @@ PLAYERS:
 
 PROPS:
 	2 game console controllers, initially carried by Steve and Lisa.
-	2 "portal guns" (Empty toy airsoft pistols can be provided by davidad)
+	2 "portal guns", initially backstage right. (Empty toy airsoft pistols can be provided by davidad)
 	A table, situated stage right.
 
 	SIGNS:
@@ -64,11 +64,11 @@ Unit 0042: Allow me to -- explain
 
 * The Humans Are Dead (Robots)
 
-[Steve and Lisa wander over to the table and read the new sign.]
+[Steve and Lisa wander over to the table and read the new sign, as GLaDOS exits stage right to pick up portal guns.]
 Lisa: Aperture Science? What does that even mean?
 GLaDOS: Hello and welcome. We hope your brief detention has been a pleasant one. [Takes game controllers and replaces them with portal guns.] You are in now in possession of the Aperture Science hand-held portal device. The test will now begin.
-[GLaDOS disappears to backstage right]
-Steve: What do we do with these things? [Raises gun to shoot]
+[GLaDOS returns to the chorus]
+Steve: What do we do with these things? [Raises gun to shoot, pointing at chorus. Chorus leans away, frightened.]
 Lisa: No!!! Stop!! That's a *gun*, it's dangerous! We have to put these down and get out of here!
 Steve: And how the hell are we going to do that?! You heard what she said! This is some kinda test that we have to pass before we can leave, and we have to use these-- whatever they are to do it!
 [Steve begins to walk back over to stage center, in front of the waiting chorus]
