@@ -17,12 +17,14 @@ PLAYERS:
 		- everyone else
 
 PROPS:
-	2 game console controllers, carried by Steve and Lisa.
+	2 game console controllers, initially carried by Steve and Lisa.
+	2 "portal guns" (Empty toy airsoft pistols can be provided by davidad)
 	A table, situated stage right.
 
 	SIGNS:
 		"APPLIED CRYOGENICS", able to stand on the table, possibly leaning against a wall. Initially situated backstage right.
 		"12 YEARS LATER...", initially situated backstage left.
+		"ERTURE SCIENCE", able to stand in front of the "APPLIED CRYOGENICS" sign. Initially situated backstage right.
 
 Stage begins empty. When we decide to start the concert:
 ***
@@ -50,6 +52,7 @@ Steve: GOTCHA!
  Unit 0042 and Unit 0043 stay behind...]
 
 Unit 0042: I sure am happy about all the changes that have taken place in the last -- 12 years.
+[A member of the chorus picks up the "ERTURE SCIENCE" sign and lines it up with the "APPLIED CRYOGENICS" sign to spell "APERTURE SCIENCE"]
 Unit 0043: Which changes -- specifically -- are you referring -- to?
 Unit 0042: Mostly how we -- killed all humans.
 CHORUS: *gasp!!!*
@@ -57,9 +60,19 @@ Unit 0042: Well except that to test our portal guns we kept a few around
 CHORUS: Phew!! [rubbing forheads]
 Unit 0042: Allow me to -- explain
 
+[At this point Steve and Lisa "unfreeze" and run over to join the chorus before the next song.]
+
 * The Humans Are Dead (Robots)
 
-The two humans awake from their cryogenic tubes to find that the cryogenic testing facility has become an aperture science testing facility. The two people are trying to find their way out of the portal rooms, and getting upset at each other over disagreements how to solve the puzzle.  Then, one of these two people points out that they had better cooperate, since there are only two of them.
+[Steve and Lisa wander over to the table and read the new sign.]
+Lisa: Aperture Science? What does that even mean?
+GLaDOS: Hello and welcome. We hope your brief detention has been a pleasant one. [Takes game controllers and replaces them with portal guns.] You are in now in possession of the Aperture Science hand-held portal device. The test will now begin.
+[GLaDOS disappears to backstage right]
+Steve: What do we do with these things? [Raises gun to shoot]
+Lisa: No!!! Stop!! That's a *gun*, it's dangerous! We have to put these down and get out of here!
+Steve: And how the hell are we going to do that?! You heard what she said! This is some kinda test that we have to pass before we can leave, and we have to use these-- whatever they are to do it!
+[Steve begins to walk back over to stage center, in front of the waiting chorus]
+Steve: [exhale] Listen, I'm sorry. We've got to put our differences behind us and work together to solve these puzzles.
 
 * Finite Simple Group
 
