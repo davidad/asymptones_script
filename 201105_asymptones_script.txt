@@ -3,15 +3,15 @@
 ********************************************************************************
 PLAYERS:
 	Steve, a GUY
-		- dkoh?
+		- davidad?
 	Lisa, a GIRL
-		- fischerl?
+		- dreback?
 	Unit 0042, a ROBOT
 		- horkley?
 	Unit 0043,...also a ROBOT
 		- jesseaj?
 	GLaDOS, a ROBOT OVERLORD
-		- JB?
+		- catherio?
 
 	Chorus of ROBOTS
 		- everyone else
