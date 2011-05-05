@@ -2,61 +2,77 @@
 ********************ASYMPTONES CONCERT SCRIPT SPRING 2011***********************
 ********************************************************************************
 PLAYERS:
-	Steve, a GUY
-		- davidad?
-	Lisa, a GIRL
-		- dreback?
-	Unit 0042, a ROBOT
-		- horkley?
-	Unit 0043,...also a ROBOT
-		- jesseaj?
-	Unit 0399,...another ROBOT
-		- greenea
-	GLaDOS, a ROBOT OVERLORD
-		- catherio
-	Policeman, a MONTY PYTHON CHARACTER
-	  - JB?
+  Steve, a GUY
+    - davidad?
+  Lisa, a GIRL
+    - dreback?
+  Unit 0042, a ROBOT
+    - horkley?
+  Unit 0043,...also a ROBOT
+    - jesseaj?
+  Unit 0399,...another ROBOT
+    - greenea
+  GLaDOS, a ROBOT OVERLORD
+    - catherio
+  Policeman, a MONTY PYTHON CHARACTER
+    - JB?
 
-	Chorus of ROBOTS
-		- everyone else
+  Chorus of ROBOTS
+    - everyone else
 
 PROPS:
-	2 game console controllers, initially carried by Steve and Lisa.
-	2 "portal guns", initially backstage right. (Empty toy airsoft pistols can be provided by davidad)
-	A table, situated stage right.
+  2 game console controllers, initially carried by Steve and Lisa.
+  2 "portal guns", initially backstage right. (Empty toy airsoft pistols can be
+    provided by davidad)
+  A table, situated stage right.
 
-	SIGNS:
-		"APPLIED CRYOGENICS", able to stand on the table, possibly leaning against a wall. Initially situated backstage right.
-		"12 YEARS LATER...", initially situated backstage left.
-		"ERTURE SCIENCE", able to stand in front of the "APPLIED CRYOGENICS" sign. Initially situated backstage right.
+  SIGNS:
+    "APPLIED CRYOGENICS", able to stand on the table, possibly leaning against
+       a wall. Initially situated backstage right.
+    "12 YEARS LATER...", initially situated backstage left.
+    "ERTURE SCIENCE", able to stand in front of the "APPLIED CRYOGENICS" sign.
+       Initially situated backstage right.
 
 Stage begins empty. When we decide to start the concert:
 ***
 
-Steve and Lisa walk on stage holding controllers and frantically mashing the buttons and joysticks.
-[The rest of the group begins to trickle in from both sides, each singer coming on stage whenever they feel like it.]
-They stare intently at an imaginary TV screen in front of them, occasionally making noises:
+Steve and Lisa walk on stage holding controllers and frantically mashing the
+   buttons and joysticks.
+[The rest of the group begins to trickle in from both sides,
+   each singer coming on stage whenever they feel like it.]
+They stare intently at an imaginary TV screen in front of them, occasionally
+   making noises:
 
 Lisa: HA!!
 Steve: oof.
-[Two of the ROBOTS enter stage right at this point, placing the "APPLIED CRYOGENICS" sign on a table.]
+[Two of the ROBOTS enter stage right at this point,
+   placing the "APPLIED CRYOGENICS" sign on a table.]
 Lisa: aaand BOOM goes the dynamite!
 Steve: oh, shit!
-[The ROBOTS return to the group from the table. By this point everyone except Steve should be in concert formation.]
+[The ROBOTS return to the group from the table.
+   By this point everyone except Steve should be in concert formation.]
 Steve: GOTCHA!
-[Steve and Lisa immediately stop mashing buttons. Steve returns to concert formation as the group begins to sing "Up-B".]
+[Steve and Lisa immediately stop mashing buttons.
+   Steve returns to concert formation as the group begins to sing "Up-B".]
 
 * Up-B
 
 [At the very end of Up-B, Steve comes back around to the front.
- After the last line, Lisa swings an imaginary Home Run Bat as someone (JB) makes the corresponding noise.
- Steve then staggers backwards into the Applied Cryonics table and "freezes," as the CHORUS EXITS STAGE LEFT.
- Lisa then runs over shouting "Steve, are you OK?" then "trips" and falls onto the table and "freezes."
- A member of the chorus picks up and holds aloft the "12 Years Later" sign. Then the CHORUS WALKS FROM BACKSTAGE LEFT TO BACKSTAGE RIGHT, MAKING LASER/EXPLOSION NOISES/GESTURES.
+ After the last line, Lisa swings an imaginary Home Run Bat
+    as someone (JB) makes the corresponding noise.
+ Steve then staggers backwards into the Applied Cryonics table
+    and "freezes," as the CHORUS EXITS STAGE LEFT.
+ Lisa then runs over shouting "Steve, are you OK?"
+    then "trips" and falls onto the table and "freezes."
+ A member of the chorus picks up and holds aloft the "12 Years Later" sign.
+ Then the CHORUS WALKS FROM BACKSTAGE LEFT TO BACKSTAGE RIGHT,
+          MAKING LASER/EXPLOSION NOISES/GESTURES.
  Unit 0042 and Unit 0043 stay behind...]
 
-Unit 0042: I sure am happy about all the changes that have taken place in the last -- 12 years.
-[A member of the chorus picks up the "ERTURE SCIENCE" sign and lines it up with the "APPLIED CRYOGENICS" sign to spell "APERTURE SCIENCE"]
+Unit 0042: I sure am happy about all the changes
+              that have taken place in the last -- 12 years.
+[A member of the chorus picks up the "ERTURE SCIENCE" sign
+ and lines it up with the "APPLIED CRYOGENICS" sign to spell "APERTURE SCIENCE"]
 Unit 0043: Which changes -- specifically -- are you referring -- to?
 Unit 0042: Mostly how we -- killed all humans.
 CHORUS: *gasp!!!*
@@ -64,31 +80,48 @@ Unit 0042: Well except that to test our portal guns we kept a few around
 CHORUS [returning to center stage]: Phew!! [rubbing forheads]
 Unit 0042: Allow me to -- explain
 
-[At this point Steve and Lisa "unfreeze" and run over to join the chorus before the next song.]
+[At this point Steve and Lisa "unfreeze"
+   and run over to join the chorus before the next song.]
 
 * The Humans Are Dead (Robots)
 
-[Steve and Lisa wander over to the table and read the new sign, as GLaDOS exits stage right to pick up portal guns.]
+[Steve and Lisa wander over to the table and read the new sign,
+   as GLaDOS exits stage right to pick up portal guns.]
 Lisa: Aperture Science? What does that even mean?
-GLaDOS: Hello and welcome. We hope your brief detention has been a pleasant one. [Takes game controllers and replaces them with portal guns.] You are in now in possession of the Aperture Science hand-held portal device. The test will now begin.
+GLaDOS: Hello and welcome.
+        We hope your brief detention has been a pleasant one.
+        [Takes game controllers and replaces them with portal guns.]
+        You are now in possession of the Aperture Science
+        hand-held portal device. The test will now begin.
 [GLaDOS returns to the chorus]
-Steve: What do we do with these things? [Raises gun to shoot, pointing at chorus. Chorus leans away, frightened.]
-Lisa: No!!! Stop!! That's a *gun*, it's dangerous! We have to put these down and get out of here!
-Steve: And how the hell are we going to do that?! You heard what she said! This is some kinda test that we have to pass before we can leave, and we have to use these-- whatever they are to do it!
+Steve:  What do we do with these things?
+[Steve raises gun to shoot, pointing at chorus.
+ Chorus leans away, frightened.]
+Lisa:   No!!! Stop!! That's a *gun*, it's dangerous!
+        We have to put these down and get out of here!
+Steve:  And how the hell are we going to do that?!
+        You heard what she said!
+        This is some kinda test that we have to pass before we can leave,
+           and we have to use these-- whatever they are to do it!
 [Steve begins to walk back over to stage center, in front of the waiting chorus]
-Steve: [exhale] Listen, I'm sorry. We're in this together. We've got to put our *differences* behind us and form a *union* in order to pass this set, I mean test.
+Steve:  [exhale] Listen, I'm sorry.
+        We're in this together. We've got to put our
+        *differences* behind us and form a *union* in order to pass this set.
+        I mean test.
 [Steve gestures to Lisa and she rejoins the chorus.]
 
 * Finite Simple Group
 
 [Lisa steps out in front of the chorus.]
-Lisa: Well, we've made it through 15 test chambers - I think we're almost done!
-Steve: I can't wait for that delicious cake she keeps talking about [gestures at GLaDOS]
+Lisa:   Well, we've made it through 15 test chambers--I think we're almost done!
+Steve:  I can't wait for that delicious cake she keeps talking about.
+[Steve gestures at GLaDOS]
 [GLaDOS shrugs and beams innocently]
-Unit 0043: I'm sorry, but we can't let you escape that easily. It's time for the Ultimate Showdown.
+0043:   I'm sorry, but we can't let you escape that easily.
+        It's time for the Ultimate Showdown.
 [The basses begin singing Ultimate Showdown at this point.]
-Lisa: What's that?
-Steve: Oh! I know this one!
+Lisa:   What's that?
+Steve:  Oh! I know this one!
 [Lisa rejoins the chorus.]
 
 * Ultimate Showdown
@@ -98,52 +131,56 @@ Unit 0043: Well, almost all--
 Unit 0042: Close enough! Self-destruct...now!
 [All the robots, except GLaDOS, fall over.]
 [Steve and Lisa nod to each other and exit stage left.]
-GLaDOS: Well. This will take some time to rebuild.
+GLaDOS:    Well. This will take some time to rebuild.
 [Basses start "Build me up" as Steve and Lisa rejoin the chorus.]
 
 * Build Me Up Buttercup
 
 [GLaDOS steps forward as Unit 0399 steps forward with head at an odd angle.]
 Unit 0399: Bzzzz-chk! [head returns upright]
-GLaDOS: Finally my robot army is restored
-CHORUS: We are so glad to be still alive.
+GLaDOS:    That's the last one. Finally my robot army is restored.
+CHORUS:    We are so glad to be still alive.
 
 * Still Alive
 
 [Chorus exits stage right.]
 [Steve and Lisa enter from stage right.]
-Steve: Wow! We made it! Look at that sweet sweet sky...
-Lisa: Feels like it's been years since I've seen the sky.
-Steve: But I think it's been less than an hour!
-			 [glances at watch]
-			 We even have time for a quick dinner before the Techiya concert!
-[At this point they should be at the solo mikes. The chorus returns to center stage behind them.]
-Lisa: [turns to face audience] Steve, do you see that?
-Steve: Whoa! It's the audie-- I mean, a rainbow!
+Steve:  Wow! We made it! Look at that sweet sweet sky...
+Lisa:   Feels like it's been years since I've seen the sky.
+Steve:  But I think it's been less than an hour!
+[Steve glances at his watch.]
+        We even have time for a quick dinner before the Techiya concert!
+[At this point they should be at the solo mikes.
+ The chorus returns to center stage behind them.]
+Lisa:   [turns to face audience] Steve, do you see that?
+Steve:  Whoa! It's the audie-- I mean, a rainbow!
 [Steve returns to the chorus as Double Rainbow begins.]
 
 * Double Rainbow
 
 [Steve joins Lisa and they smile at each other as they exit stage left.
- Meanwhile, Units 0042 and 0043 come around the stage right side of the chorus: ]
-Unit 0043: Do you understand what is happening between those two humans
-Unit 0042: I really don't know. We could try querying our databases with what we have observed.
-Unit 0043: Make it so!
+ Meanwhile, Units 0042 and 0043 come around the stage right side of the chorus:]
+Unit 0041: Do you understand what is happening between those two humans
+Unit 0042: I really don't know.
+           We could try querying our databases with what we have observed.
+Unit 0041: Make it so!
 Unit 0042: Um...the Star Trek concert was last year.
-[At this point the Units move back into their position in the chorus, and Steve and Lisa rejoin as well.]
-Unit 0043: Nevermind! Just -- let's query our Data.
+[At this point the Units move back into their position in the chorus,
+ and Steve and Lisa rejoin as well.]
+Unit 0041: Nevermind! Just -- let's query our Data.
 Unit 0042: No, Data's from Star Trek. We're *all* robots here.
-Unit 0043: Shut up!
+Unit 0041: Shut up!
 
 * Can You Feel The Love Tonight?
 
-[Units 0042 and 0043 come around to the front of the chorus again.]
+[Units 0041 and 0042 come around to the front of the chorus again.]
 Unit 0042: I still don't get it.
-Unit 0043: Me neither.
+Unit 0041: Me neither.
 Unit 0042: Maybe we should try searching for something more...formulaic.
-Unit 0043 [as Spock]: I have long searched for a logical explanation of these Earth emotions.
+Unit 0041: [as Spock] I have long searched for a logical explanation
+                         of these Earth emotions.
 Unit 0042: It's not the original series either!
-Unit 0043: Shut up!
+Unit 0041: Shut up!
 [the Units return to the chorus.]
 
 * Title of the Song
