@@ -6,10 +6,12 @@ PLAYERS:
     - davidad?
   Lisa, a GIRL
     - dreback?
+  Unit 0041, a ROBOT
+    - attawaye
   Unit 0042, a ROBOT
-    - horkley?
+    - horkley
   Unit 0043,...also a ROBOT
-    - jesseaj?
+    - jesseaj
   Unit 0399,...another ROBOT
     - greenea
   GLaDOS, a ROBOT OVERLORD
