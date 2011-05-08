@@ -3,9 +3,9 @@
 ********************************************************************************
 PLAYERS:
   Steve, a GUY
-    - davidad?
+    - davidad
   Lisa, a GIRL
-    - dreback?
+    - dreback
   Unit 0041, a ROBOT
     - attawaye
   Unit 0042, a ROBOT
@@ -29,8 +29,8 @@ PROPS:
   A table, situated stage right.
 
   SIGNS:
-    "APPLIED CRYOGENICS", able to stand on the table, possibly leaning against
-       a wall. Initially situated backstage right.
+    "APPLIED CRYOGENICS", standing on the table, possibly leaning
+       against a wall.
     "12 YEARS LATER...", initially situated backstage left.
     "ERTURE SCIENCE", able to stand in front of the "APPLIED CRYOGENICS" sign.
        Initially situated backstage right.
@@ -47,13 +47,13 @@ They stare intently at an imaginary TV screen in front of them, occasionally
 
 Lisa: HA!!
 Steve: oof.
-[Two of the ROBOTS enter stage right at this point,
-   placing the "APPLIED CRYOGENICS" sign on a table.]
 Lisa: aaand BOOM goes the dynamite!
 Steve: oh, shit!
-[The ROBOTS return to the group from the table.
-   By this point everyone except Steve should be in concert formation.]
+
+[By this point everyone except Steve should be in concert formation.]
+
 Steve: GOTCHA!
+
 [Steve and Lisa immediately stop mashing buttons.
    Steve returns to concert formation as the group begins to sing "Up-B".]
 
@@ -62,26 +62,34 @@ Steve: GOTCHA!
 [At the very end of Up-B, Steve comes back around to the front.
  After the last line, Lisa swings an imaginary Home Run Bat
     as someone (JB) makes the corresponding noise.
+
  Steve then staggers backwards into the Applied Cryonics table
     and "freezes," as the CHORUS EXITS STAGE LEFT.
- Lisa then runs over shouting "Steve, are you OK?"
+
+ Lisa: "Not the cryogenics chamber!! I'll save you... ohhh shit!"
     then "trips" and falls onto the table and "freezes."
- A member of the chorus picks up and holds aloft the "12 Years Later" sign.
- Then the CHORUS WALKS FROM BACKSTAGE LEFT TO BACKSTAGE RIGHT,
-          MAKING LASER/EXPLOSION NOISES/GESTURES.
- Unit 0042 and Unit 0043 stay behind...]
+
+ A member of the chorus picks up and holds aloft the "12 Years Later"
+ sign.
+
+ Then the CHORUS (except unit 42 and 43) WALKS FROM BACKSTAGE LEFT TO
+          BACKSTAGE RIGHT, MAKING LASER/EXPLOSION NOISES/GESTURES.
+
 
 Unit 0042: I sure am happy about all the changes
               that have taken place in the last -- 12 years.
+
 [A member of the chorus picks up the "ERTURE SCIENCE" sign
- and lines it up with the "APPLIED CRYOGENICS" sign to spell "APERTURE SCIENCE"]
+ and lines it up with the "APPLIED CRYOGENICS" sign to spell "APERTURE
+ SCIENCE"]
+
 Unit 0043: Which changes -- specifically -- are you referring -- to?
 Unit 0042: Mostly how we -- killed all humans.
 CHORUS: *gasp!!!*
-Unit 0042: Well except that to test our portal guns we kept a few around
+Unit 0042: Well except that to test our portal guns we kept a few
+around!
 CHORUS [returning to center stage]: Phew!! [rubbing forheads]
 Unit 0042: Allow me to -- explain
-
 [At this point Steve and Lisa "unfreeze"
    and run over to join the chorus before the next song.]
 
@@ -120,7 +128,7 @@ Steve:  I can't wait for that delicious cake she keeps talking about.
 [Steve gestures at GLaDOS]
 [GLaDOS shrugs and beams innocently]
 0043:   I'm sorry, but we can't let you escape that easily.
-        It's time for the Ultimate Showdown.
+        It's time for the Ultimate Showdown. [pitchpipe note]
 [The basses begin singing Ultimate Showdown at this point.]
 Lisa:   What's that?
 Steve:  Oh! I know this one!
@@ -131,51 +139,68 @@ Steve:  Oh! I know this one!
 Unit 0042: Shit! He got all of the words right!
 Unit 0043: Well, almost all--
 Unit 0042: Close enough! Self-destruct...now!
+
 [All the robots, except GLaDOS, fall over.]
-[Steve and Lisa nod to each other and exit stage left.]
-GLaDOS:    Well. This will take some time to rebuild.
+[Steve and Lisa grin, and run off stage to get out of the complex]
+
+Steve: We're free! Let's get out of here!
+
+GLaDOS: Oh my. Oh my. Well. This will take some time to rebuild.
+
 [Basses start "Build me up" as Steve and Lisa rejoin the chorus.]
 
 * Build Me Up Buttercup
+[Each successive voice part uses tools to repair the voice part that
+is about to sing next]
 
 [GLaDOS steps forward as Unit 0399 steps forward with head at an odd angle.]
 Unit 0399: Bzzzz-chk! [head returns upright]
-GLaDOS:    That's the last one. Finally my robot army is restored.
-CHORUS:    We are so glad to be still alive.
+GLaDOS:    Finally my robot army is restored.
+Unit 0399:    We are so glad to be still alive.
 
 * Still Alive
 
 [Chorus exits stage right.]
-[Steve and Lisa enter from stage right.]
-Steve:  Wow! We made it! Look at that sweet sweet sky...
+[Steve and Lisa enter from stage right, looking haggard as though it's
+been a tough escape]
+
+Steve:  Wow! We finally escaped! Look at that sweet sweet sky...
 Lisa:   Feels like it's been years since I've seen the sky.
 Steve:  But I think it's been less than an hour!
 [Steve glances at his watch.]
-        We even have time for a quick dinner before the Techiya concert!
+        We even have time for a quick dinner before the Techiya
+	concert!
+
 [At this point they should be at the solo mikes.
  The chorus returns to center stage behind them.]
+
 Lisa:   [turns to face audience] Steve, do you see that?
 Steve:  Whoa! It's the audie-- I mean, a rainbow!
 [Steve returns to the chorus as Double Rainbow begins.]
 
 * Double Rainbow
 
-[Steve joins Lisa and they smile at each other as they exit stage left.
- Meanwhile, Units 0042 and 0043 come around the stage right side of the chorus:]
+[Steve joins Lisa and they smile at each other and wrap arms around
+each other's shoulder/waist as they exit stage left]
+
+CHORUS: Awww =)
+
+* Can You Feel The Love Tonight?
+
+[Units 0042 and 0043 come around the stage right side of
+ the chorus:]
+
 Unit 0041: Do you understand what is happening between those two humans
 Unit 0042: I really don't know.
            We could try querying our databases with what we have observed.
 Unit 0041: Make it so!
 Unit 0042: Um...the Star Trek concert was last year.
-[At this point the Units move back into their position in the chorus,
- and Steve and Lisa rejoin as well.]
 Unit 0041: Nevermind! Just -- let's query our Data.
 Unit 0042: No, Data's from Star Trek. We're *all* robots here.
-Unit 0041: Shut up!
+Unit 0041: Well fiiine.
 
-* Can You Feel The Love Tonight?
+[Angry silence]
 
-[Units 0041 and 0042 come around to the front of the chorus again.]
 Unit 0042: I still don't get it.
 Unit 0041: Me neither.
 Unit 0042: Maybe we should try searching for something more...formulaic.
@@ -183,6 +208,7 @@ Unit 0041: [as Spock] I have long searched for a logical explanation
                          of these Earth emotions.
 Unit 0042: It's not the original series either!
 Unit 0041: Shut up!
+
 [the Units return to the chorus.]
 
 * Title of the Song
